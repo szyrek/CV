@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: jekyll-theme-tactile
 title: Szymon Żyrek- CV
 ---
 # Szymon Żyrek
