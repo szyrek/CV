@@ -1,3 +1,7 @@
+---
+layout: default
+title: Szymon Żyrek- CV
+---
 # Szymon Żyrek
 **Full-Stack Developer transitioning to Machine Learning**  
 *10+ years of software development with deep technical understanding and a strong foundation in machine learning*  
